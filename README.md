@@ -1,8 +1,8 @@
-# 🚀 Ambitio Frontend Developer Intern Assignment  
+# 🚀 Ambitio Frontend Developer Assignment  
 
 ## 🎯 Task: Create a Hero Section for a Landing Page  
 
-Your assignment is to develop the **hero section** of a landing page as per the design provided in the **Figma link**. This task will assess your ability to accurately translate a design into code while incorporating animations and responsiveness.  
+Your assignment is to develop the **hero section** of a landing page as per the design provided in the **Figma link**. This task will assess your ability to translate a design into code accurately while incorporating animations and responsiveness.  
 
 ---
 
